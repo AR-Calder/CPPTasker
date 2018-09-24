@@ -1,5 +1,5 @@
-# STF
-Simple Task Fetcher - A simple framework for assigning tasks to threads farmer/worker style
+# CPPTASKER
+CPPTasker- A simple framework for assigning tasks to threads farmer/worker style
 
 Built for fun, but figured someone may find useful.
 
